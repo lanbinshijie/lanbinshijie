@@ -13,7 +13,10 @@
 
 ### Hi there 👋
 <div align="left"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=lanbinshijie&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> </div>
-<!--
+<div>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+</div> 
+  <!--
 **ye-tutu/ye-tutu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
