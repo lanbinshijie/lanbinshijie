@@ -23,9 +23,11 @@
 - ⚡ Fun fact: I am a boy, haha
 
 ## 我的代码 👋
-<div align="left"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=lanbinshijie&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> </div>
-<div>
+<div align="left"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=lanbinshijie&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanbinshijie&hide_title=true&hide_border=true&layout=compact&bg_color=ffffff&theme=graywhite&locale=cn" />
 </div> 
 
+## 哇！你来啦！🧡
+
+这里已经很久没有人来过了，似乎是有些寂寞了呢，陌生人，如果……你对我感兴趣，我们可以交个朋友吗~＞︿＜
 
