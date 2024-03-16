@@ -2,6 +2,7 @@
   <img src="https://cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/picture/1650693278000.gif">
 </div>
 <h3 align="center">念念不忘，必有回响，向未来致敬！</h3>
+<p align="center">This account is being migrated to another account, lanbinleo, for name reasons.</p>
 <div align="center">
   <a href="https://www.lanbinovo.cn/"><img src="https://img.shields.io/badge/Blog-我的博客-blue"></a>&emsp;
   <a href="#"><img src="https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
